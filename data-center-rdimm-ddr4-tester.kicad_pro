@@ -428,7 +428,7 @@
   "net_settings": {
     "classes": [
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.09,
         "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
@@ -442,10 +442,10 @@
         "track_width": 0.12,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.1,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
@@ -454,16 +454,15 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "100Ohm-diff",
-        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.1,
         "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
@@ -472,16 +471,15 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "40Ohm-se_DQ",
-        "nets": [],
         "pcb_color": "rgb(255, 0, 214)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.1,
         "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
@@ -490,16 +488,15 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "50Ohm-se",
-        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.1,
         "diff_pair_gap": 0.1,
         "diff_pair_via_gap": 0.25,
@@ -508,16 +505,15 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "80Ohm-diff_DQS",
-        "nets": [],
         "pcb_color": "rgb(0, 255, 0)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.09,
         "diff_pair_gap": 0.102,
         "diff_pair_via_gap": 0.25,
@@ -526,16 +522,15 @@
         "microvia_diameter": 0.0,
         "microvia_drill": 0.0,
         "name": "85Ohm-diff_PCIe",
-        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.11,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.1,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
@@ -544,16 +539,15 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "90Ohm-diff_FMC",
-        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.13,
         "diff_pair_gap": 0.12,
         "diff_pair_via_gap": 0.25,
@@ -562,16 +556,15 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "90Ohm-diff_USB",
-        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.33,
         "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
@@ -580,17 +573,16 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "POE",
-        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.5,
         "via_drill": 0.2,
-        "wire_width": 6.0
+        "wire_width": 6
       }
     ],
     "meta": {
-      "version": 2
+      "version": 3
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -602,7 +594,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "data-center-rdimm-ddr4-tester.step",
       "vrml": "data-center-rdimm-ddr4-tester.wrl"
     },
     "page_layout_descr_file": ""
